@@ -1,0 +1,11 @@
+NAME,TYPE,PRICE,UPC,SHIPPING,DESCRIPTION,MANUFACTURER,MODEL,URL,IMAGE
+Smith,Soft,6,09876,2,light,powerful,AB6574P5Z,http://www.bestbuy.com,http://img.bbystatic.com/BestBuy_US/images/products/4390/43900_sa.jpg
+Zeel,HardGood,90,98766,0,free,Duracell,AB6574P5Z,http://www.bestbuy.com,http://img.bbystatic.com/BestBuy_US/images/products/4390/43900_sa.jpg
+Smith,Soft,6,98766,1,compatible,powerful,MN2400B4Z,http://www.bestbuy.com,http://img.bbystatic.com/BestBuy_US/images/products/4390/43900_sa.jpg
+John,HardGood,9.87,98766,0,compatible,powerful,AB6574P5Z,http://www.bestbuy.com,http://img.bbystatic.com/BestBuy_US/images/products/4390/43900_sa.jpg
+Zeel,HardGood,90,09876,1,light,powerful,AB6574P5Z,http://www.bestbuy.com,http://img.bbystatic.com/BestBuy_US/images/products/4390/43900_sa.jpg
+Smith,Solid,90,34553,1,light,Energizer,MN2400B4Z,http://www.bestbuy.com,http://img.bbystatic.com/BestBuy_US/images/products/4390/43900_sa.jpg
+Smith,HardGood,9.87,98766,0,compatible,Energizer,MN2400B4Z,http://www.bestbuy.com,http://img.bbystatic.com/BestBuy_US/images/products/4390/43900_sa.jpg
+Smith,Solid,90,09876,1,light,Energizer,MN2400B4Z,http://www.bestbuy.com,http://img.bbystatic.com/BestBuy_US/images/products/4390/43900_sa.jpg
+Smith,Soft,6,09876,1,light,Energizer,MN2400B4Z,http://www.bestbuy.com,http://img.bbystatic.com/BestBuy_US/images/products/4390/43900_sa.jpg
+Smith,Soft,90,34553,1,free,Duracell,MN2400B4Z,http://www.bestbuy.com,http://img.bbystatic.com/BestBuy_US/images/products/4390/43900_sa.jpg
